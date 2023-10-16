@@ -1,0 +1,16 @@
+E:\Nazmul_Alom_3094\Projects\ProgressBar_WinForm\ProgressBar_WinForm\bin\Debug\net6.0-windows\ProgressBar_WinForm.exe
+E:\Nazmul_Alom_3094\Projects\ProgressBar_WinForm\ProgressBar_WinForm\bin\Debug\net6.0-windows\ProgressBar_WinForm.deps.json
+E:\Nazmul_Alom_3094\Projects\ProgressBar_WinForm\ProgressBar_WinForm\bin\Debug\net6.0-windows\ProgressBar_WinForm.runtimeconfig.json
+E:\Nazmul_Alom_3094\Projects\ProgressBar_WinForm\ProgressBar_WinForm\bin\Debug\net6.0-windows\ProgressBar_WinForm.dll
+E:\Nazmul_Alom_3094\Projects\ProgressBar_WinForm\ProgressBar_WinForm\bin\Debug\net6.0-windows\ProgressBar_WinForm.pdb
+E:\Nazmul_Alom_3094\Projects\ProgressBar_WinForm\ProgressBar_WinForm\obj\Debug\net6.0-windows\ProgressBar_WinForm.Form1.resources
+E:\Nazmul_Alom_3094\Projects\ProgressBar_WinForm\ProgressBar_WinForm\obj\Debug\net6.0-windows\ProgressBar_WinForm.csproj.GenerateResource.cache
+E:\Nazmul_Alom_3094\Projects\ProgressBar_WinForm\ProgressBar_WinForm\obj\Debug\net6.0-windows\ProgressBar_WinForm.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nazmul_Alom_3094\Projects\ProgressBar_WinForm\ProgressBar_WinForm\obj\Debug\net6.0-windows\ProgressBar_WinForm.AssemblyInfoInputs.cache
+E:\Nazmul_Alom_3094\Projects\ProgressBar_WinForm\ProgressBar_WinForm\obj\Debug\net6.0-windows\ProgressBar_WinForm.AssemblyInfo.cs
+E:\Nazmul_Alom_3094\Projects\ProgressBar_WinForm\ProgressBar_WinForm\obj\Debug\net6.0-windows\ProgressBar_WinForm.csproj.CoreCompileInputs.cache
+E:\Nazmul_Alom_3094\Projects\ProgressBar_WinForm\ProgressBar_WinForm\obj\Debug\net6.0-windows\ProgressBar_WinForm.dll
+E:\Nazmul_Alom_3094\Projects\ProgressBar_WinForm\ProgressBar_WinForm\obj\Debug\net6.0-windows\refint\ProgressBar_WinForm.dll
+E:\Nazmul_Alom_3094\Projects\ProgressBar_WinForm\ProgressBar_WinForm\obj\Debug\net6.0-windows\ProgressBar_WinForm.pdb
+E:\Nazmul_Alom_3094\Projects\ProgressBar_WinForm\ProgressBar_WinForm\obj\Debug\net6.0-windows\ProgressBar_WinForm.genruntimeconfig.cache
+E:\Nazmul_Alom_3094\Projects\ProgressBar_WinForm\ProgressBar_WinForm\obj\Debug\net6.0-windows\ref\ProgressBar_WinForm.dll
